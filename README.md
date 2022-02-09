@@ -3,6 +3,7 @@
 - 🌱 I’m currently doing a Ph.D. in Computational Finance
 - 💞️ I’m looking to collaborate on numerical methods and machine learning methods in Finance.
 - 📫 ppl@business.aau.dk
+- Website: mrppl.github.io
 
 <!---
 MrPPL/MrPPL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
