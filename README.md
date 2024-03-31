@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrPPL
 - 👀 I’m interested in numerical methods within Finance and option pricing theory
-- 🌱 I’m currently doing a Ph.D. in Computational Finance
+- 🌱 I’m currently doing a Ph.D. in Quantitative Finance
 - 💞️ I’m looking to collaborate on numerical methods and machine learning methods in Finance.
 - 📫 ppl@business.aau.dk
 - Website: mrppl.github.io
